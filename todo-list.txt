@@ -4,3 +4,5 @@ Walk the dog
 Feed the cat
 Take a shower
 Complete Git Module
+Do dishes
+Fold Laundry
